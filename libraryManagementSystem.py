@@ -89,9 +89,9 @@ def menu():
 
 
 
-book1 = Book('B001', 'The Great Gatsby', 'F. Scott Fitzgerald')
-book2 = Book('B002', '1984', 'George Orwell')
-book3 = Book('B003', 'To Kill a Mockingbird', 'Harper Lee')
+book1 = Book('1', 'ABC', 'X')
+book2 = Book('2', 'DEF', 'Y')
+book3 = Book('3', 'GHI', 'Z')
 
 
 menu()
