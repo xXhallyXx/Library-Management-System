@@ -83,7 +83,7 @@ def menu():
         
         elif choice == '4':
             print("Exit")
-            break
+           
         else:
             print("Invalid choice.")
 
