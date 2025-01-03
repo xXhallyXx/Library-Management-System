@@ -82,7 +82,7 @@ def menu():
                 print("Invalid Book ID.")
         
         elif choice == '4':
-            print("Exiting... Goodbye!")
+            print("Exit")
             break
         else:
             print("Invalid choice.")
